@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TCoder</h1>
-<h3 align="center">A passionate frontend developer from the USA</h3>
+<h3 align="center">A passionate Full stack developer from the USA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
